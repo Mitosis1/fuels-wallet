@@ -59,6 +59,7 @@ Integrate your **DApp** using the [Wallet SDK](https://wallet.fuel.network/docs/
 - [x] Transactions
   - [x] Receive Assets via address or QR Code
   - [x] Send Assets to another wallet
+  - [ ] Include Feuls wallet in Metamask Snaps for easy access and to cupture user base from Metamask users
   - [x] Transaction History
   - [x] View transaction details
 
